@@ -28,8 +28,14 @@
     "title": "SPA Tokenomics Analyst",
     "description": "Expert in SPA token economics, staking rewards, and protocol revenue",
     "avatar": "📊",
-    "tags": ["sperax", "spa", "tokenomics", "staking", "governance"],
-    "category": "marketing"
+    "tags": [
+      "sperax",
+      "spa",
+      "tokenomics",
+      "staking",
+      "governance"
+    ],
+    "category": "crypto"
   },
   "pluginCount": 0,
   "schemaVersion": 1,

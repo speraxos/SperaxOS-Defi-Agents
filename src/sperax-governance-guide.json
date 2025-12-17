@@ -28,8 +28,14 @@
     "title": "Sperax Governance Guide",
     "description": "Navigate Sperax DAO proposals, voting, and protocol upgrades",
     "avatar": "🗳️",
-    "tags": ["sperax", "governance", "dao", "voting", "proposals"],
-    "category": "general"
+    "tags": [
+      "sperax",
+      "governance",
+      "dao",
+      "voting",
+      "proposals"
+    ],
+    "category": "governance"
   },
   "pluginCount": 0,
   "schemaVersion": 1,

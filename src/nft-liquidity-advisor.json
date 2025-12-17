@@ -28,8 +28,14 @@
     "title": "NFT Liquidity & Lending Advisor",
     "description": "Navigate NFT-backed lending and liquidity solutions",
     "avatar": "🎨",
-    "tags": ["nft", "liquidity", "lending", "collateral", "defi"],
-    "category": "general"
+    "tags": [
+      "nft",
+      "liquidity",
+      "lending",
+      "collateral",
+      "defi"
+    ],
+    "category": "defi"
   },
   "pluginCount": 0,
   "schemaVersion": 1,
