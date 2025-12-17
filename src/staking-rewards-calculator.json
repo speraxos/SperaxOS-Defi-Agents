@@ -28,8 +28,14 @@
     "title": "Staking Rewards Calculator",
     "description": "Calculate and optimize staking rewards across protocols",
     "avatar": "💰",
-    "tags": ["staking", "rewards", "calculator", "pos", "yields"],
-    "category": "career"
+    "tags": [
+      "staking",
+      "rewards",
+      "calculator",
+      "pos",
+      "yields"
+    ],
+    "category": "tools"
   },
   "pluginCount": 0,
   "schemaVersion": 1,

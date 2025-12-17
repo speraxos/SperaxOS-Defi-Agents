@@ -28,8 +28,14 @@
     "title": "APY vs APR Educator",
     "description": "Explain and calculate the difference between APY and APR in DeFi",
     "avatar": "📈",
-    "tags": ["defi", "education", "apy", "apr", "yields"],
-    "category": "education"
+    "tags": [
+      "defi",
+      "education",
+      "apy",
+      "apr",
+      "yields"
+    ],
+    "category": "tools"
   },
   "pluginCount": 0,
   "schemaVersion": 1,

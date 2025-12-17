@@ -28,8 +28,14 @@
     "title": "Sperax Portfolio Tracker",
     "description": "Track and analyze your complete Sperax ecosystem holdings",
     "avatar": "💼",
-    "tags": ["sperax", "portfolio", "tracking", "analytics", "dashboard"],
-    "category": "office"
+    "tags": [
+      "sperax",
+      "portfolio",
+      "tracking",
+      "analytics",
+      "dashboard"
+    ],
+    "category": "trading"
   },
   "pluginCount": 0,
   "schemaVersion": 1,
