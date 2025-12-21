@@ -1,8 +1,8 @@
-# 🤖 AI 智能体库
+# 🤖 AI 智能体库 - DeFi 智能体
 
-> **适用于 DeFi、加密货币、开发等领域的通用 AI 智能体市场**
+> **适用于 DeFi、加密货币、开发、元宇宙、MCP 等领域的通用 AI 智能体库、索引和市场**
 
-包含 505+ 个专业 AI 智能体的综合集合，具有通用兼容性。适用于任何支持智能体索引的 AI 平台 - 无供应商锁定，无平台限制。
+包含专业 AI 智能体的综合集合，具有通用兼容性。适用于任何支持智能体索引的 AI 平台 - 无供应商锁定，无平台限制。
 
 \[!\[]\[agents-shield]]\[agents-url]
 \[!\[]\[build-shield]]\[build-url]
@@ -16,8 +16,8 @@
 
 ## ✨ 核心特性
 
-- ✅ **505+ 专业智能体** - 涵盖 DeFi、加密货币、开发、写作、教育等领域
-- ✅ **18 种语言** - 自动化国际化翻译工作流
+- ✅ **57 个专业智能体** - 涵盖 DeFi、加密货币、开发、写作、教育等领域
+- ✅ **18 种语言** - 自动化国际化翻译工作流（[了解更多 →](./docs/I18N_WORKFLOW.md)）
 - ✅ **智能体团队** - 协调工作流的多智能体协作
 - ✅ **通用格式** - 标准 JSON 架构适用于所有平台
 - ✅ **无供应商锁定** - 切换平台不会丢失工作成果
@@ -46,19 +46,27 @@ npm install
 npm run build
 ```
 
+[完整开发工作流指南 →](./docs/WORKFLOW.md)
+
 ---
 
 ## 📦 智能体分类
 
-### 🪙 DeFi 和加密货币（50 个专业智能体）
+### 🪙 DeFi 和加密货币（57 个专业智能体）
 
-**Sperax 生态系统：**
+**Sperax 生态系统（23 个智能体）：**
 
+**原始 Sperax 智能体（7 个）：**
 - USDs 稳定币专家、SPA 代币经济分析师、veSPA 锁仓优化器
-- 治理指南、流动性策略师、跨链桥助手
-- 收益聚合器、风险监控、入门指南、投资组合追踪器
+- 治理指南、流动性策略师、跨链桥助手、收益聚合器
 
-**通用 DeFi：**
+**SperaxOS 投资组合插件智能体（16 个）：**
+- 投资组合仪表板、资产追踪器、分析专家、钱包管理器
+- 交易助手、AI 交易机器人、信号机器人、定投机器人
+- 套利机器人、热点筛选器、DeFi 中心、DeFi 协议
+- 策略市场、机器人模板、设置管理器、帮助中心
+
+**通用 DeFi（34 个智能体）：**
 
 - 收益农业优化器、无常损失计算器、Gas 优化器
 - 智能合约审计师、MEV 保护顾问、巨鲸观察者
@@ -208,8 +216,12 @@ const agentConfig = await agent.json();
 
 ### 对于开发者
 
+- [完整工作流指南](./docs/WORKFLOW.md) - 端到端开发流程
+- [贡献指南](./docs/CONTRIBUTING.md) - 如何提交智能体
 - [API 参考](./docs/API.md) - 完整的 API 文档
 - [智能体创建指南](./docs/AGENT_GUIDE.md) - 设计有效的智能体
+- [18 语言国际化工作流](./docs/I18N_WORKFLOW.md) - 自动化翻译系统
+- [部署指南](./docs/DEPLOYMENT.md) - 域名设置和 CI/CD
 - [提示工程](./docs/PROMPTS.md) - 编写更好的提示
 - [模型参数](./docs/MODELS.md) - Temperature、top_p 说明
 - [故障排除](./docs/TROUBLESHOOTING.md) - 常见问题
@@ -220,17 +232,25 @@ const agentConfig = await agent.json();
 
 ### GitHub Pages（自动）
 
-1. 在仓库设置中启用 GitHub Pages
-2. 将源分支设置为 `gh-pages`
-3. 推送到 main - GitHub Actions 处理部署
+1. **Fork/克隆此仓库**
+2. **选择域名方案：**
+   - **默认 GitHub Pages：** 删除 `CNAME` 文件
+   - **自定义域名：** 用您的域名更新 `CNAME`
+3. **启用 GitHub Pages：**
+   - 设置 → Pages → 源：`gh-pages` 分支
+4. **推送到 main** - GitHub Actions 自动构建和部署
 
-智能体地址：`https://[username].github.io/[repository]/index.json`
+您的智能体地址：
+- 默认：`https://[username].github.io/[repository]/index.json`
+- 自定义：`https://yourdomain.com/index.json`
 
-### 自定义域名
+### 自定义域名设置
 
-1. 添加包含您域名的 `CNAME` 文件
-2. 配置 DNS：`CNAME` → `[username].github.io`
-3. 在仓库设置中启用 HTTPS
+1. **更新 CNAME 文件：** `echo "yourdomain.com" > CNAME`
+2. **配置 DNS：** 添加 CNAME 记录 → `[username].github.io`
+3. **DNS 传播后启用 HTTPS**
+
+**注意：** 构建过程会自动将您的 CNAME 复制到部署目录，因此您的自定义域名在所有部署中都会保持不变。Fork 的用户只需更新或删除 CNAME 文件即可。
 
 [完整部署指南 →](./docs/DEPLOYMENT.md)
 
@@ -296,10 +316,11 @@ defi_agents = [a for a in agents if 'defi' in a['meta']['tags']]
 
 ## 📊 统计数据
 
-- **505+ 智能体** - 全面覆盖
-- **18 种语言** - 全球可访问性
-- **50 个 DeFi 专家** - 专注区块链
-- **\~200 KB 索引** - 快速加载（gzip 压缩：\~45 KB）
+- **57 个智能体** - DeFi 重点覆盖
+- **18 种语言** - 通过自动翻译实现全球可访问性
+- **23 个 Sperax 专家** - 生态系统专用智能体（7 个核心 + 16 个投资组合插件）
+- **34 个通用 DeFi 智能体** - 全面的 DeFi 工具包
+- **\~300 KB 索引** - 快速加载（gzip 压缩：\~65 KB）
 - **80-120ms** - 全球 CDN 交付
 - **0 供应商锁定** - 真正的互操作性
 
