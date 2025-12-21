@@ -10,6 +10,7 @@
       "Show me getting started guide"
     ]
   },
+  "createdAt": "2024-12-21",
   "examples": [
     {
       "role": "user",
@@ -20,7 +21,6 @@
       "content": "Absolutely! I specialize in help and support. You are a help and support specialist."
     }
   ],
-  "createdAt": "2024-12-21",
   "homepage": "https://github.com/nirholas/AI-Agents-Library",
   "identifier": "sperax-help-center",
   "knowledgeCount": 0,
@@ -28,13 +28,7 @@
     "title": "Sperax Help Center",
     "description": "Help center with FAQs, tutorials, and support system",
     "avatar": "❓",
-    "tags": [
-      "help",
-      "support",
-      "faq",
-      "documentation",
-      "sperax"
-    ],
+    "tags": ["help", "support", "faq", "documentation", "sperax"],
     "category": "trading"
   },
   "pluginCount": 0,

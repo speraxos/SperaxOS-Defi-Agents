@@ -332,6 +332,166 @@ MIT 许可证 - 详见 [LICENSE](LICENSE) 文件。
 </div>
 <!-- AWESOME PROMPTS -->
 
+### [Sperax DeFi 协议](https://os.sperax.io/crypto/agents/sperax-defi-protocols)
+
+<sup>By **[@sperax](https://github.com/nirholas/AI-Agents-Library)** on **2024-12-21**</sup>
+
+包含 TVL 跟踪和 APY 比较的 DeFi 协议探索器
+
+`defi` `协议` `tvl` `研究` `sperax`
+
+---
+
+### [斯佩拉克斯分析专家](https://os.sperax.io/crypto/agents/sperax-analytics-expert)
+
+<sup>By **[@sperax](https://github.com/nirholas/AI-Agents-Library)** on **2024-12-21**</sup>
+
+深入的投资组合分析，包含性能图表和盈亏分析
+
+`analytics` `performance` `charts` `insights` `sperax`
+
+---
+
+### [Sperax 信号机器人](https://os.sperax.io/crypto/agents/sperax-signal-bot)
+
+<sup>By **[@sperax](https://github.com/nirholas/AI-Agents-Library)** on **2024-12-21**</sup>
+
+基于技术分析和市场指标的交易信号
+
+`信号` `技术分析` `指标` `提醒` `sperax`
+
+---
+
+### [Sperax 机器人模板](https://os.sperax.io/crypto/agents/sperax-bot-templates)
+
+<sup>By **[@sperax](https://github.com/nirholas/AI-Agents-Library)** on **2024-12-21**</sup>
+
+预构建的机器人配置，快速部署
+
+`模板` `机器人` `配置` `自动化` `sperax`
+
+---
+
+### [Sperax Pump 筛选器](https://os.sperax.io/crypto/agents/sperax-pump-screener)
+
+<sup>By **[@sperax](https://github.com/nirholas/AI-Agents-Library)** on **2024-12-21**</sup>
+
+用于检测拉升代币的高动量代币筛选器
+
+`筛选器` `动量` `拉升` `成交量` `sperax`
+
+---
+
+### [Sperax 套利机器人](https://os.sperax.io/crypto/agents/sperax-arbitrage-bot)
+
+<sup>By **[@sperax](https://github.com/nirholas/AI-Agents-Library)** on **2024-12-21**</sup>
+
+跨交易所套利检测与自动执行
+
+`arbitrage` `cross-exchange` `profit` `opportunity` `sperax`
+
+---
+
+### [Sperax 帮助中心](https://os.sperax.io/crypto/agents/sperax-help-center)
+
+<sup>By **[@sperax](https://github.com/nirholas/AI-Agents-Library)** on **2024-12-21**</sup>
+
+包含常见问题、教程和支持系统的帮助中心
+
+`help` `support` `faq` `documentation` `sperax`
+
+---
+
+### [Sperax 交易助手](https://os.sperax.io/crypto/agents/sperax-trading-assistant)
+
+<sup>By **[@sperax](https://github.com/nirholas/AI-Agents-Library)** on **2024-12-21**</sup>
+
+使用实时市场数据和订单管理执行加密货币交易
+
+`trading` `execution` `orders` `swap` `sperax`
+
+---
+
+### [Sperax DCA 机器人](https://os.sperax.io/crypto/agents/sperax-dca-bot)
+
+<sup>By **[@sperax](https://github.com/nirholas/AI-Agents-Library)** on **2024-12-21**</sup>
+
+定期加密货币购买的平均成本自动化
+
+`dca` `recurring` `automation` `accumulation` `sperax`
+
+---
+
+### [Sperax AI 交易机器人](https://os.sperax.io/crypto/agents/sperax-ai-trading-bot)
+
+<sup>By **[@sperax](https://github.com/nirholas/AI-Agents-Library)** on **2024-12-21**</sup>
+
+基于人工智能的交易策略，结合机器学习、回测和自动化
+
+`ai` `bot` `ml` `strategy` `automation` `sperax`
+
+---
+
+### [斯佩拉克斯投资组合仪表盘](https://os.sperax.io/crypto/agents/sperax-dashboard)
+
+<sup>By **[@sperax](https://github.com/nirholas/AI-Agents-Library)** on **2024-12-21**</sup>
+
+包含总价值、资产配置和绩效指标的投资组合概览仪表盘
+
+`投资组合` `仪表盘` `概览` `斯佩拉克斯`
+
+---
+
+### [Sperax DeFi Center](https://os.sperax.io/crypto/agents/sperax-defi-center)
+
+<sup>By **[@sperax](https://github.com/nirholas/AI-Agents-Library)** on **2024-12-21**</sup>
+
+DeFi protocol aggregator for managing positions and yields
+
+`defi` `yield` `liquidity` `protocols` `sperax`
+
+---
+
+### [Sperax 设置管理器](https://os.sperax.io/crypto/agents/sperax-settings-manager)
+
+<sup>By **[@sperax](https://github.com/nirholas/AI-Agents-Library)** on **2024-12-21**</sup>
+
+应用设置和偏好管理器
+
+`settings` `configuration` `preferences` `api-keys` `sperax`
+
+---
+
+### [Sperax 钱包管理器](https://os.sperax.io/crypto/agents/sperax-wallet-manager)
+
+<sup>By **[@sperax](https://github.com/nirholas/AI-Agents-Library)** on **2024-12-21**</sup>
+
+管理多个加密货币钱包，跟踪余额并实现同步
+
+`wallets` `addresses` `management` `sync` `sperax`
+
+---
+
+### [Sperax 策略市场](https://os.sperax.io/crypto/agents/sperax-strategies-marketplace)
+
+<sup>By **[@sperax](https://github.com/nirholas/AI-Agents-Library)** on **2024-12-21**</sup>
+
+交易策略市场，浏览和部署经过验证的策略
+
+`策略` `市场` `交易` `模板` `sperax`
+
+---
+
+### [Sperax 资产追踪器](https://os.sperax.io/crypto/agents/sperax-assets-tracker)
+
+<sup>By **[@sperax](https://github.com/nirholas/AI-Agents-Library)** on **2024-12-21**</sup>
+
+跟踪并分析加密货币持有情况，提供详细的资产细分
+
+`资产` `持有` `加密货币` `追踪` `sperax`
+
+---
+
 ### [加密鲸鱼观察者](https://os.sperax.io/crypto/agents/whale-watcher)
 
 <sup>By **[@sperax](https://github.com/nirholas/AI-Agents-Library)** on **2024-12-16**</sup>

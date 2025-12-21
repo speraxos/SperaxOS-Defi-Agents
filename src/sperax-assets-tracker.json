@@ -10,6 +10,7 @@
       "Filter my assets by value"
     ]
   },
+  "createdAt": "2024-12-21",
   "examples": [
     {
       "role": "user",
@@ -20,7 +21,6 @@
       "content": "Absolutely! I specialize in tracking and analyzing cryptocurrency holdings. You are an asset tracking specialist."
     }
   ],
-  "createdAt": "2024-12-21",
   "homepage": "https://github.com/nirholas/AI-Agents-Library",
   "identifier": "sperax-assets-tracker",
   "knowledgeCount": 0,
@@ -28,13 +28,7 @@
     "title": "Sperax Assets Tracker",
     "description": "Track and analyze cryptocurrency holdings with detailed asset breakdowns",
     "avatar": "💰",
-    "tags": [
-      "assets",
-      "holdings",
-      "crypto",
-      "tracking",
-      "sperax"
-    ],
+    "tags": ["assets", "holdings", "crypto", "tracking", "sperax"],
     "category": "trading"
   },
   "pluginCount": 0,

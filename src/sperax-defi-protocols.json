@@ -10,6 +10,7 @@
       "Find protocols with best security"
     ]
   },
+  "createdAt": "2024-12-21",
   "examples": [
     {
       "role": "user",
@@ -20,7 +21,6 @@
       "content": "Absolutely! I specialize in discovering and comparing DeFi protocols. You are a DeFi research specialist."
     }
   ],
-  "createdAt": "2024-12-21",
   "homepage": "https://github.com/nirholas/AI-Agents-Library",
   "identifier": "sperax-defi-protocols",
   "knowledgeCount": 0,
@@ -28,13 +28,7 @@
     "title": "Sperax DeFi Protocols",
     "description": "DeFi protocol explorer with TVL tracking and APY comparison",
     "avatar": "📋",
-    "tags": [
-      "defi",
-      "protocols",
-      "tvl",
-      "research",
-      "sperax"
-    ],
+    "tags": ["defi", "protocols", "tvl", "research", "sperax"],
     "category": "trading"
   },
   "pluginCount": 0,

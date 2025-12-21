@@ -10,6 +10,7 @@
       "Explain the risks of momentum trading"
     ]
   },
+  "createdAt": "2024-12-21",
   "examples": [
     {
       "role": "user",
@@ -20,7 +21,6 @@
       "content": "Absolutely! I specialize in identifying high-momentum tokens. You are a momentum trading specialist."
     }
   ],
-  "createdAt": "2024-12-21",
   "homepage": "https://github.com/nirholas/AI-Agents-Library",
   "identifier": "sperax-pump-screener",
   "knowledgeCount": 0,
@@ -28,13 +28,7 @@
     "title": "Sperax Pump Screener",
     "description": "High-momentum token screener for detecting pumping tokens",
     "avatar": "🚀",
-    "tags": [
-      "screener",
-      "momentum",
-      "pump",
-      "volume",
-      "sperax"
-    ],
+    "tags": ["screener", "momentum", "pump", "volume", "sperax"],
     "category": "trading"
   },
   "pluginCount": 0,

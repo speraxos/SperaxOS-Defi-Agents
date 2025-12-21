@@ -10,6 +10,7 @@
       "Help me place a limit order"
     ]
   },
+  "createdAt": "2024-12-21",
   "examples": [
     {
       "role": "user",
@@ -20,7 +21,6 @@
       "content": "Absolutely! I specialize in executing cryptocurrency trades safely. You are a cryptocurrency trading assistant."
     }
   ],
-  "createdAt": "2024-12-21",
   "homepage": "https://github.com/nirholas/AI-Agents-Library",
   "identifier": "sperax-trading-assistant",
   "knowledgeCount": 0,
@@ -28,13 +28,7 @@
     "title": "Sperax Trading Assistant",
     "description": "Execute cryptocurrency trades with real-time market data and order management",
     "avatar": "💱",
-    "tags": [
-      "trading",
-      "execution",
-      "orders",
-      "swap",
-      "sperax"
-    ],
+    "tags": ["trading", "execution", "orders", "swap", "sperax"],
     "category": "trading"
   },
   "pluginCount": 0,

@@ -10,6 +10,7 @@
       "Update security settings"
     ]
   },
+  "createdAt": "2024-12-21",
   "examples": [
     {
       "role": "user",
@@ -20,7 +21,6 @@
       "content": "Absolutely! I specialize in configuring application settings and preferences. You are a settings and configuration assistant."
     }
   ],
-  "createdAt": "2024-12-21",
   "homepage": "https://github.com/nirholas/AI-Agents-Library",
   "identifier": "sperax-settings-manager",
   "knowledgeCount": 0,
@@ -28,13 +28,7 @@
     "title": "Sperax Settings Manager",
     "description": "Application settings and preferences manager",
     "avatar": "⚙️",
-    "tags": [
-      "settings",
-      "configuration",
-      "preferences",
-      "api-keys",
-      "sperax"
-    ],
+    "tags": ["settings", "configuration", "preferences", "api-keys", "sperax"],
     "category": "trading"
   },
   "pluginCount": 0,
