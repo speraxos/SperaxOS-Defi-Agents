@@ -8,7 +8,7 @@ A comprehensive collection of specialized AI agents with universal compatibility
 
 ## ✨ Key Features
 
-- ✅ **41 Specialized Agents** - DeFi, crypto, development, writing, education, and more
+- ✅ **57 Specialized Agents** - DeFi, crypto, development, writing, education, and more
 - ✅ **18 Languages** - Automated i18n translation workflow ([Learn More →](./docs/I18N_WORKFLOW.md))
 - ✅ **Agent Teams** - Multi-agent collaboration with coordinated workflows
 - ✅ **Universal Format** - Standard JSON schema works everywhere
@@ -39,19 +39,27 @@ bun run format
 bun run build
 ```
 
+[Complete Development Workflow Guide →](./docs/WORKFLOW.md)
+
 ---
 
 ## 📦 Agent Categories
 
-### 🪙 DeFi & Crypto (41 Specialized Agents)
+### 🪙 DeFi & Crypto (57 Specialized Agents)
 
-**Sperax Ecosystem (10 Agents):**
+**Sperax Ecosystem (23 Agents):**
 
+**Original Sperax Agents (7):**
 - USDs Stablecoin Expert, SPA Tokenomics Analyst, veSPA Lock Optimizer
-- Governance Guide, Liquidity Strategist, Bridge Assistant
-- Yield Aggregator, Risk Monitor, Onboarding Guide, Portfolio Tracker
+- Governance Guide, Liquidity Strategist, Bridge Assistant, Yield Aggregator
 
-**General DeFi (31 Agents):**
+**SperaxOS Portfolio Plugin Agents (16):**
+- Portfolio Dashboard, Assets Tracker, Analytics Expert, Wallet Manager
+- Trading Assistant, AI Trading Bot, Signal Bot, DCA Bot
+- Arbitrage Bot, Pump Screener, DeFi Center, DeFi Protocols
+- Strategies Marketplace, Bot Templates, Settings Manager, Help Center
+
+**General DeFi (34 Agents):**
 
 - Yield Farming Optimizer, Impermanent Loss Calculator, Gas Optimizer
 - Smart Contract Auditor, MEV Protection Advisor, Whale Watcher
@@ -181,9 +189,12 @@ Our automated workflow will translate your agent to 18 languages and deploy it g
 
 ### For Developers
 
+- [Complete Workflow Guide](./docs/WORKFLOW.md) - End-to-end development process
+- [Contributing Guide](./docs/CONTRIBUTING.md) - How to submit agents
 - [API Reference](./docs/API.md) - Complete API documentation
 - [Agent Creation Guide](./docs/AGENT_GUIDE.md) - Design effective agents
 - [18 Languages i18n Workflow](./docs/I18N_WORKFLOW.md) - Automated translation system
+- [Deployment Guide](./docs/DEPLOYMENT.md) - Domain setup and CI/CD
 - [Prompt Engineering](./docs/PROMPTS.md) - Writing better prompts
 - [Model Parameters](./docs/MODELS.md) - Temperature, top_p explained
 - [Troubleshooting](./docs/TROUBLESHOOTING.md) - Common issues
@@ -194,17 +205,25 @@ Our automated workflow will translate your agent to 18 languages and deploy it g
 
 ### GitHub Pages (Automatic)
 
-1. Enable GitHub Pages in repository settings
-2. Set source branch to `gh-pages`
-3. Push to main - GitHub Actions handles deployment
+1. **Fork/Clone this repository**
+2. **Choose your domain option:**
+   - **Default GitHub Pages:** Delete the `CNAME` file
+   - **Custom Domain:** Update `CNAME` with your domain
+3. **Enable GitHub Pages:**
+   - Settings → Pages → Source: `gh-pages` branch
+4. **Push to main** - GitHub Actions automatically builds and deploys
 
-Agents live at: `https://[username].github.io/[repository]/index.json`
+Your agents will be at:
+- Default: `https://[username].github.io/[repository]/index.json`
+- Custom: `https://yourdomain.com/index.json`
 
-### Custom Domain
+### Custom Domain Setup
 
-1. Add `CNAME` file with your domain
-2. Configure DNS: `CNAME` → `[username].github.io`
-3. Enable HTTPS in repository settings
+1. **Update CNAME file:** `echo "yourdomain.com" > CNAME`
+2. **Configure DNS:** Add CNAME record → `[username].github.io`
+3. **Enable HTTPS** in repository settings after DNS propagates
+
+**Note:** The build process automatically copies your CNAME to the deployment, so your custom domain persists across all deployments. Forks can simply update or delete the CNAME file.
 
 [Full Deployment Guide →](./docs/DEPLOYMENT.md)
 
@@ -270,11 +289,11 @@ defi_agents = [a for a in agents if 'defi' in a['meta']['tags']]
 
 ## 📊 Stats
 
-- **41 Agents** - DeFi-focused coverage
+- **57 Agents** - DeFi-focused coverage
 - **18 Languages** - Global accessibility via automated translation
-- **10 Sperax Specialists** - Ecosystem-specific agents
-- **31 General DeFi Agents** - Comprehensive DeFi toolkit
-- **\~200 KB Index** - Fast loading (gzipped: \~45 KB)
+- **23 Sperax Specialists** - Ecosystem-specific agents (7 core + 16 portfolio plugins)
+- **34 General DeFi Agents** - Comprehensive DeFi toolkit
+- **\~300 KB Index** - Fast loading (gzipped: \~65 KB)
 - **80-120ms** - Global CDN delivery
 - **0 Vendor Lock-in** - True interoperability
 
