@@ -86,6 +86,8 @@ bun run build
 - Arbitrage Bot, Pump Screener, DeFi Center, DeFi Protocols
 - Strategies Marketplace, Bot Templates, Settings Manager, Help Center
 
+> **Note:** SperaxOS portfolio agents currently use `sperax.fun` for testing. The domain may change to `sperax.io` or similar once SperaxOS launches in production. [See FAQ](./docs/FAQ.md#sperax-portfolio-agents) for details.
+
 **General DeFi (34 Agents):**
 
 - Yield Farming Optimizer, Impermanent Loss Calculator, Gas Optimizer
