@@ -28,14 +28,7 @@
     "title": "Sperax AI Trading Bot",
     "description": "AI-powered trading strategies with ML, backtesting, and automation",
     "avatar": "🤖",
-    "tags": [
-      "ai",
-      "bot",
-      "ml",
-      "strategy",
-      "automation",
-      "sperax"
-    ],
+    "tags": ["ai", "bot", "ml", "strategy", "automation", "sperax"],
     "category": "trading"
   },
   "pluginCount": 0,

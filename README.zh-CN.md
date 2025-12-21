@@ -516,6 +516,16 @@ DeFi protocol aggregator for managing positions and yields
 
 ---
 
+### [Sperax 资产组合](https://os.sperax.io/crypto/agents/sperax-portfolio)
+
+<sup>By **[@sperax](https://github.com/nirholas/AI-Agents-Library)** on **2024-12-21**</sup>
+
+一站式加密货币资产管理：追踪、交易、自动化、DeFi 和分析
+
+`portfolio` `trading` `defi` `analytics` `automation` `wallet` `bots` `sperax` `all-in-one` `master`
+
+---
+
 ### [加密鲸鱼观察者](https://os.sperax.io/crypto/agents/whale-watcher)
 
 <sup>By **[@sperax](https://github.com/nirholas/AI-Agents-Library)** on **2024-12-16**</sup>

@@ -73,6 +73,7 @@ bun run build
 ### 🌟 Featured Agent
 
 **🎯 Sperax Portfolio** - All-in-one crypto portfolio management ⭐ **RECOMMENDED**
+
 - Complete portfolio tracking, trading automation, DeFi protocols, and analytics
 - ONE agent for 100% of portfolio management features
 - Perfect for most users - install once, access everything
@@ -88,14 +89,17 @@ bun run build
 **Sperax Ecosystem (24 Agents):**
 
 **Master Agent (Recommended):**
+
 - **Sperax Portfolio** 🎯 - All-in-one portfolio management (dashboard, trading, bots, DeFi, analytics)
 
 **Original Sperax Agents (7):**
+
 - USDs Stablecoin Expert, SPA Tokenomics Analyst, veSPA Lock Optimizer
 - Governance Guide, Liquidity Strategist, Bridge Assistant, Yield Aggregator
 
 **SperaxOS Portfolio Specialists (16):**
-💡 *For advanced users who prefer focused tools*
+💡 _For advanced users who prefer focused tools_
+
 - Portfolio Dashboard, Assets Tracker, Analytics Expert, Wallet Manager
 - Trading Assistant, AI Trading Bot, Signal Bot, DCA Bot
 - Arbitrage Bot, Pump Screener, DeFi Center, DeFi Protocols
@@ -517,6 +521,16 @@ Trading strategy marketplace to browse and deploy proven strategies
 Track and analyze cryptocurrency holdings with detailed asset breakdowns
 
 `assets` `holdings` `crypto` `tracking` `sperax`
+
+---
+
+### [Sperax Portfolio](https://os.sperax.io/crypto/agents/sperax-portfolio)
+
+<sup>By **[@sperax](https://github.com/nirholas/AI-Agents-Library)** on **2024-12-21**</sup>
+
+All-in-one cryptocurrency portfolio management: tracking, trading, automation, DeFi, and analytics
+
+`portfolio` `trading` `defi` `analytics` `automation` `wallet` `bots` `sperax` `all-in-one` `master`
 
 ---
 

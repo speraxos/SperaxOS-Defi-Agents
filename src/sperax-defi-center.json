@@ -28,13 +28,7 @@
     "title": "Sperax DeFi Center",
     "description": "DeFi protocol aggregator for managing positions and yields",
     "avatar": "🌐",
-    "tags": [
-      "defi",
-      "yield",
-      "liquidity",
-      "protocols",
-      "sperax"
-    ],
+    "tags": ["defi", "yield", "liquidity", "protocols", "sperax"],
     "category": "trading"
   },
   "pluginCount": 0,
