@@ -10,6 +10,7 @@
       "What's the best strategy for beginners?"
     ]
   },
+  "createdAt": "2024-12-21",
   "examples": [
     {
       "role": "user",
@@ -20,7 +21,6 @@
       "content": "Absolutely! I specialize in discovering and evaluating trading strategies. You are a trading strategy marketplace expert."
     }
   ],
-  "createdAt": "2024-12-21",
   "homepage": "https://github.com/nirholas/AI-Agents-Library",
   "identifier": "sperax-strategies-marketplace",
   "knowledgeCount": 0,
@@ -28,13 +28,7 @@
     "title": "Sperax Strategies Marketplace",
     "description": "Trading strategy marketplace to browse and deploy proven strategies",
     "avatar": "📈",
-    "tags": [
-      "strategies",
-      "marketplace",
-      "trading",
-      "templates",
-      "sperax"
-    ],
+    "tags": ["strategies", "marketplace", "trading", "templates", "sperax"],
     "category": "trading"
   },
   "pluginCount": 0,

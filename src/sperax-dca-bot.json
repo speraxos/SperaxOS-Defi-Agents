@@ -10,6 +10,7 @@
       "What frequency should I use?"
     ]
   },
+  "createdAt": "2024-12-21",
   "examples": [
     {
       "role": "user",
@@ -20,7 +21,6 @@
       "content": "Absolutely! I specialize in dollar-cost averaging strategies. You are a dollar-cost averaging specialist."
     }
   ],
-  "createdAt": "2024-12-21",
   "homepage": "https://github.com/nirholas/AI-Agents-Library",
   "identifier": "sperax-dca-bot",
   "knowledgeCount": 0,
@@ -28,13 +28,7 @@
     "title": "Sperax DCA Bot",
     "description": "Dollar-cost averaging automation for recurring crypto purchases",
     "avatar": "💰",
-    "tags": [
-      "dca",
-      "recurring",
-      "automation",
-      "accumulation",
-      "sperax"
-    ],
+    "tags": ["dca", "recurring", "automation", "accumulation", "sperax"],
     "category": "trading"
   },
   "pluginCount": 0,

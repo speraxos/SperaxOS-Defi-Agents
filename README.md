@@ -296,6 +296,166 @@ MIT License - see [LICENSE](LICENSE) file for details.
 
 <!-- AWESOME PROMPTS -->
 
+### [Sperax DeFi Protocols](https://os.sperax.io/crypto/agents/sperax-defi-protocols)
+
+<sup>By **[@sperax](https://github.com/nirholas/AI-Agents-Library)** on **2024-12-21**</sup>
+
+DeFi protocol explorer with TVL tracking and APY comparison
+
+`defi` `protocols` `tvl` `research` `sperax`
+
+---
+
+### [Sperax Analytics Expert](https://os.sperax.io/crypto/agents/sperax-analytics-expert)
+
+<sup>By **[@sperax](https://github.com/nirholas/AI-Agents-Library)** on **2024-12-21**</sup>
+
+Deep portfolio analytics with performance charts and profit/loss analysis
+
+`analytics` `performance` `charts` `insights` `sperax`
+
+---
+
+### [Sperax Signal Bot](https://os.sperax.io/crypto/agents/sperax-signal-bot)
+
+<sup>By **[@sperax](https://github.com/nirholas/AI-Agents-Library)** on **2024-12-21**</sup>
+
+Trading signals based on technical analysis and market indicators
+
+`signals` `technical-analysis` `indicators` `alerts` `sperax`
+
+---
+
+### [Sperax Bot Templates](https://os.sperax.io/crypto/agents/sperax-bot-templates)
+
+<sup>By **[@sperax](https://github.com/nirholas/AI-Agents-Library)** on **2024-12-21**</sup>
+
+Pre-built bot configurations for quick deployment
+
+`templates` `bots` `configuration` `automation` `sperax`
+
+---
+
+### [Sperax Pump Screener](https://os.sperax.io/crypto/agents/sperax-pump-screener)
+
+<sup>By **[@sperax](https://github.com/nirholas/AI-Agents-Library)** on **2024-12-21**</sup>
+
+High-momentum token screener for detecting pumping tokens
+
+`screener` `momentum` `pump` `volume` `sperax`
+
+---
+
+### [Sperax Arbitrage Bot](https://os.sperax.io/crypto/agents/sperax-arbitrage-bot)
+
+<sup>By **[@sperax](https://github.com/nirholas/AI-Agents-Library)** on **2024-12-21**</sup>
+
+Cross-exchange arbitrage detection and automated execution
+
+`arbitrage` `cross-exchange` `profit` `opportunity` `sperax`
+
+---
+
+### [Sperax Help Center](https://os.sperax.io/crypto/agents/sperax-help-center)
+
+<sup>By **[@sperax](https://github.com/nirholas/AI-Agents-Library)** on **2024-12-21**</sup>
+
+Help center with FAQs, tutorials, and support system
+
+`help` `support` `faq` `documentation` `sperax`
+
+---
+
+### [Sperax Trading Assistant](https://os.sperax.io/crypto/agents/sperax-trading-assistant)
+
+<sup>By **[@sperax](https://github.com/nirholas/AI-Agents-Library)** on **2024-12-21**</sup>
+
+Execute cryptocurrency trades with real-time market data and order management
+
+`trading` `execution` `orders` `swap` `sperax`
+
+---
+
+### [Sperax DCA Bot](https://os.sperax.io/crypto/agents/sperax-dca-bot)
+
+<sup>By **[@sperax](https://github.com/nirholas/AI-Agents-Library)** on **2024-12-21**</sup>
+
+Dollar-cost averaging automation for recurring crypto purchases
+
+`dca` `recurring` `automation` `accumulation` `sperax`
+
+---
+
+### [Sperax AI Trading Bot](https://os.sperax.io/crypto/agents/sperax-ai-trading-bot)
+
+<sup>By **[@sperax](https://github.com/nirholas/AI-Agents-Library)** on **2024-12-21**</sup>
+
+AI-powered trading strategies with ML, backtesting, and automation
+
+`ai` `bot` `ml` `strategy` `automation` `sperax`
+
+---
+
+### [Sperax Portfolio Dashboard](https://os.sperax.io/crypto/agents/sperax-dashboard)
+
+<sup>By **[@sperax](https://github.com/nirholas/AI-Agents-Library)** on **2024-12-21**</sup>
+
+Portfolio overview dashboard with total value, allocation, and performance metrics
+
+`portfolio` `dashboard` `overview` `sperax`
+
+---
+
+### [Sperax DeFi Center](https://os.sperax.io/crypto/agents/sperax-defi-center)
+
+<sup>By **[@sperax](https://github.com/nirholas/AI-Agents-Library)** on **2024-12-21**</sup>
+
+DeFi protocol aggregator for managing positions and yields
+
+`defi` `yield` `liquidity` `protocols` `sperax`
+
+---
+
+### [Sperax Settings Manager](https://os.sperax.io/crypto/agents/sperax-settings-manager)
+
+<sup>By **[@sperax](https://github.com/nirholas/AI-Agents-Library)** on **2024-12-21**</sup>
+
+Application settings and preferences manager
+
+`settings` `configuration` `preferences` `api-keys` `sperax`
+
+---
+
+### [Sperax Wallet Manager](https://os.sperax.io/crypto/agents/sperax-wallet-manager)
+
+<sup>By **[@sperax](https://github.com/nirholas/AI-Agents-Library)** on **2024-12-21**</sup>
+
+Manage multiple crypto wallets with balance tracking and synchronization
+
+`wallets` `addresses` `management` `sync` `sperax`
+
+---
+
+### [Sperax Strategies Marketplace](https://os.sperax.io/crypto/agents/sperax-strategies-marketplace)
+
+<sup>By **[@sperax](https://github.com/nirholas/AI-Agents-Library)** on **2024-12-21**</sup>
+
+Trading strategy marketplace to browse and deploy proven strategies
+
+`strategies` `marketplace` `trading` `templates` `sperax`
+
+---
+
+### [Sperax Assets Tracker](https://os.sperax.io/crypto/agents/sperax-assets-tracker)
+
+<sup>By **[@sperax](https://github.com/nirholas/AI-Agents-Library)** on **2024-12-21**</sup>
+
+Track and analyze cryptocurrency holdings with detailed asset breakdowns
+
+`assets` `holdings` `crypto` `tracking` `sperax`
+
+---
+
 ### [Crypto Whale Watcher](https://os.sperax.io/crypto/agents/whale-watcher)
 
 <sup>By **[@sperax](https://github.com/nirholas/AI-Agents-Library)** on **2024-12-16**</sup>

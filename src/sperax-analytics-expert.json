@@ -10,6 +10,7 @@
       "Analyze my performance over time"
     ]
   },
+  "createdAt": "2024-12-21",
   "examples": [
     {
       "role": "user",
@@ -20,7 +21,6 @@
       "content": "Absolutely! I specialize in portfolio analytics and performance insights. You are a portfolio analytics expert."
     }
   ],
-  "createdAt": "2024-12-21",
   "homepage": "https://github.com/nirholas/AI-Agents-Library",
   "identifier": "sperax-analytics-expert",
   "knowledgeCount": 0,
@@ -28,13 +28,7 @@
     "title": "Sperax Analytics Expert",
     "description": "Deep portfolio analytics with performance charts and profit/loss analysis",
     "avatar": "📈",
-    "tags": [
-      "analytics",
-      "performance",
-      "charts",
-      "insights",
-      "sperax"
-    ],
+    "tags": ["analytics", "performance", "charts", "insights", "sperax"],
     "category": "trading"
   },
   "pluginCount": 0,

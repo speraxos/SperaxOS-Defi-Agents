@@ -10,6 +10,7 @@
       "Help me customize a grid trading bot"
     ]
   },
+  "createdAt": "2024-12-21",
   "examples": [
     {
       "role": "user",
@@ -20,7 +21,6 @@
       "content": "Absolutely! I specialize in deploying trading bots using templates. You are a bot configuration specialist."
     }
   ],
-  "createdAt": "2024-12-21",
   "homepage": "https://github.com/nirholas/AI-Agents-Library",
   "identifier": "sperax-bot-templates",
   "knowledgeCount": 0,
@@ -28,13 +28,7 @@
     "title": "Sperax Bot Templates",
     "description": "Pre-built bot configurations for quick deployment",
     "avatar": "🔧",
-    "tags": [
-      "templates",
-      "bots",
-      "configuration",
-      "automation",
-      "sperax"
-    ],
+    "tags": ["templates", "bots", "configuration", "automation", "sperax"],
     "category": "trading"
   },
   "pluginCount": 0,

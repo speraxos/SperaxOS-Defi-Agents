@@ -10,6 +10,7 @@
       "What risk levels can I set?"
     ]
   },
+  "createdAt": "2024-12-21",
   "examples": [
     {
       "role": "user",
@@ -20,7 +21,6 @@
       "content": "Absolutely! I specialize in AI-powered trading strategies. You are an AI trading strategy expert."
     }
   ],
-  "createdAt": "2024-12-21",
   "homepage": "https://github.com/nirholas/AI-Agents-Library",
   "identifier": "sperax-ai-trading-bot",
   "knowledgeCount": 0,
@@ -28,14 +28,7 @@
     "title": "Sperax AI Trading Bot",
     "description": "AI-powered trading strategies with ML, backtesting, and automation",
     "avatar": "🤖",
-    "tags": [
-      "ai",
-      "bot",
-      "ml",
-      "strategy",
-      "automation",
-      "sperax"
-    ],
+    "tags": ["ai", "bot", "ml", "strategy", "automation", "sperax"],
     "category": "trading"
   },
   "pluginCount": 0,

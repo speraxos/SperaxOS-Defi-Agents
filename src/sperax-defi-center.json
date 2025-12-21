@@ -10,6 +10,7 @@
       "What protocols offer highest APY?"
     ]
   },
+  "createdAt": "2024-12-21",
   "examples": [
     {
       "role": "user",
@@ -20,7 +21,6 @@
       "content": "Absolutely! I specialize in managing DeFi positions and finding yield opportunities. You are a DeFi specialist."
     }
   ],
-  "createdAt": "2024-12-21",
   "homepage": "https://github.com/nirholas/AI-Agents-Library",
   "identifier": "sperax-defi-center",
   "knowledgeCount": 0,
@@ -28,13 +28,7 @@
     "title": "Sperax DeFi Center",
     "description": "DeFi protocol aggregator for managing positions and yields",
     "avatar": "🌐",
-    "tags": [
-      "defi",
-      "yield",
-      "liquidity",
-      "protocols",
-      "sperax"
-    ],
+    "tags": ["defi", "yield", "liquidity", "protocols", "sperax"],
     "category": "trading"
   },
   "pluginCount": 0,
