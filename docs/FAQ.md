@@ -94,6 +94,43 @@ Currently, the marketplace is free and open-source. Monetization features may be
 
 ---
 
+## Sperax Portfolio Agents
+
+### What domain do the Sperax portfolio agents use?
+
+Currently, the Sperax portfolio agents (Dashboard, Trading Assistant, DCA Bot, etc.) use **sperax.fun** for testing and development purposes.
+
+### Will the domain change in the future?
+
+Yes, likely. Once **SperaxOS** is officially live in production, the domain may change to something like:
+
+- **sperax.io** for the main platform
+- **sperax.io/chat** for the SperaxOS chat interface
+- Different subdomains for specific portfolio features
+
+However, **everything is still in flux** and subject to change as the platform evolves.
+
+### Should I hardcode sperax.fun URLs?
+
+If you're building integrations or creating custom agents, be aware that:
+
+- Current URL: `https://sperax.fun/artifacts/portfolio/embed/*`
+- Future URL (tentative): `https://sperax.io/*` or similar
+- Timeline: TBD based on SperaxOS production launch
+
+Monitor the repository for updates when the domain migration occurs.
+
+### Will there be a migration guide?
+
+Yes. When the domain changes, we'll provide:
+
+- Migration announcement in the repository
+- Updated documentation
+- Automated URL updates for all agents in the library
+- Deprecation timeline for the old domain
+
+---
+
 ## Technical Questions
 
 ### What's the difference between temperature and top_p?
