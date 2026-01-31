@@ -237,3 +237,4 @@ For questions, issues, or feedback:
 ## License
 
 This changelog and all content is licensed under the MIT License. See [LICENSE](LICENSE) for details.
+
