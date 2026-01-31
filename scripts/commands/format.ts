@@ -7,3 +7,4 @@ import { formatAgents } from '../formatters/agent-formatter';
 
 // 执行格式化流程
 await formatAgents();
+
