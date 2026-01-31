@@ -196,3 +196,4 @@ The **agent marketplace index** at sperax.click serves as a **universal agent re
 Built with **LLM compatibility** in mind, all agent definitions follow a **standardized JSON schema** that works with ChatGPT, Claude, Grok, and other AI systems. The **machine-readable manifest** enables automated discovery and integration, while the **open source MIT license** ensures portability and freedom from vendor lock-in.
 
 Whether building a crypto trading bot, DeFi dashboard, Web3 chatbot, or multi-agent orchestration system, this repository provides the **foundation for AI-powered blockchain applications**.
+
