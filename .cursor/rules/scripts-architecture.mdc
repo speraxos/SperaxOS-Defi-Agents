@@ -80,3 +80,4 @@ import { formatAgentJSON } from '../validators/agent-validator';
 - Include module type in name (e.g., `agent-parser.ts`, `category-processor.ts`)
 - Commands are simple action names (e.g., `build.ts`, `format.ts`)
 
+
