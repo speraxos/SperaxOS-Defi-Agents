@@ -36,3 +36,4 @@ if (errorCount > 0) {
   console.log(`❌ Failed to create ${errorCount} agent files`);
 }
 console.log(`\nAll agents are now in the ${srcDir}/ directory`);
+
