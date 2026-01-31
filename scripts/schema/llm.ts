@@ -76,3 +76,4 @@ export const knowledgeBaseItemSchema = z.object({
 });
 
 export type KnowledgeBaseItem = z.infer<typeof knowledgeBaseItemSchema>;
+
